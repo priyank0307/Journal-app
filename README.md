@@ -1,6 +1,6 @@
 # Journal App Backend
 
-A robust backend RESTful application built with **Spring Boot**, **MongoDB**, and **Spring Security** designed for managing user accounts, authentication, and personal journal entries.
+A robust backend RESTful application built with **Spring Boot**, **MongoDB**, **Spring Security** and **Postman** designed for managing user accounts, authentication, and personal journal entries.
 
 ## Tech Stack
 * **Language:** Java 17  
