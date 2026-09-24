@@ -3,7 +3,7 @@
 A robust backend RESTful application built with **Spring Boot**, **MongoDB**, and **Spring Security** designed for managing user accounts, authentication, and personal journal entries.
 
 ## Tech Stack
-* **Language:** Java 17
+* **Language:** Java 17  
 * **Framework:** Spring Boot
 * **Database:** MongoDB (MongoDB Atlas)
 * **Security:** Spring Security (HTTP Basic Auth, BCrypt Password Encoding, Role based Auth)
