@@ -1,4 +1,4 @@
-# Journal App Backend
+# Journal App Backend   
 
 A robust backend RESTful application built with **Spring Boot**, **MongoDB**, **Spring Security** and **Postman** designed for managing user accounts, authentication, and personal journal entries.
 
