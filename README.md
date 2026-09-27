@@ -7,7 +7,7 @@ A robust backend RESTful application built with **Spring Boot**, **MongoDB**, **
 * **Language:** Java 17
 * **Framework:** Spring Boot
 * **Database:** MongoDB (MongoDB Atlas)
-* **Security:** Spring Security (HTTP Basic Auth, BCrypt Password Encoding)
+* **Security:** Spring Security (HTTP Basic Auth, BCrypt Password Encoding, Role Based Authentication)
 * **Testing:** JUnit 5, Spring Boot Test, Mockito
 * **Build Tool:** Maven
 * **API Testing:** Postman
