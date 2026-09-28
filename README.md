@@ -14,7 +14,6 @@ A robust backend RESTful application built with **Spring Boot**, **MongoDB**, **
 
 ---
 
-
 ## Profiles
 
 Environment Profiles
@@ -28,8 +27,6 @@ Production (application-prod.yml): Used for live deployment. It contains secure 
 Activating a Profile
 You can activate a specific profile using any of the standard Spring Boot methods:
 
-
----
 
 Via Command Line:
 
@@ -46,6 +43,7 @@ Via Environment Variable:
 Bash
 export SPRING_PROFILES_ACTIVE=prod
 
+---
 
 ## Features
 
