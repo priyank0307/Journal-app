@@ -14,6 +14,39 @@ A robust backend RESTful application built with **Spring Boot**, **MongoDB**, **
 
 ---
 
+
+## Profiles
+
+Environment Profiles
+This application uses Spring Boot profiles to separate configuration properties between development and production environments.
+
+Configuration Files
+Development (application-dev.yml): Used for local testing and debugging. It typically connects to a local MongoDB instance and enables debug logging.
+
+Production (application-prod.yml): Used for live deployment. It contains secure production database URIs, optimized connection pools, and disabled debug logs.
+
+Activating a Profile
+You can activate a specific profile using any of the standard Spring Boot methods:
+
+
+---
+
+Via Command Line:
+
+Bash
+java -jar target/JournalApp-0.0.1-SNAPSHOT.jar --spring.profiles.active=prod
+Via application.yml (Default Profile):
+
+YAML
+spring:
+  profiles:
+    active: dev
+Via Environment Variable:
+
+Bash
+export SPRING_PROFILES_ACTIVE=prod
+
+
 ## Features
 
 * **User Management:** Secure user registration, profile updates, and authentication.
