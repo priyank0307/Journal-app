@@ -1,14 +1,6 @@
 //any one is needed either application.properties or application.yml
 
 spring:
-  data:
-    mongodb:
-      auto-index-creation: true
-  mongodb:
-    uri: mongodb+srv://priyankraj03072003_db_user:7S36ILCIYTCYQgFM@cluster0.k6rpmod.mongodb.net/?appName=Cluster0
-    database: journaldb
+  profiles:
+    active: dev
 
-server:
-  port: 8081
-  servlet:
-    context-path: /journal  
