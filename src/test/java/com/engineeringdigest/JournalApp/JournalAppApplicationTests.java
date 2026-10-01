@@ -1,4 +1,4 @@
-package com.engineeringdigest.JournalApp;
+package com.engineeringdigest.JournalApp;   
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
