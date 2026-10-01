@@ -14,6 +14,7 @@ import org.mockito.MockitoAnnotations;
 import org.springframework.boot.test.context.SpringBootTest;
 import org.springframework.security.core.userdetails.UserDetails;
 
+
 import com.engineeringdigest.JournalApp.entity.User; // Make sure this is your entity, not Spring Security's User
 import com.engineeringdigest.JournalApp.repository.UserRepository;
 
