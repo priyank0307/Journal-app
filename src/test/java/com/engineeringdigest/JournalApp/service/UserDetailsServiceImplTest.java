@@ -30,7 +30,7 @@ public class UserDetailsServiceImplTest {
     @BeforeEach 
     void setUp(){
         MockitoAnnotations.openMocks(this); // Fixed deprecation warning
-    }
+    }      
     
     @Test 
     void loadUserByUsernameTest(){
