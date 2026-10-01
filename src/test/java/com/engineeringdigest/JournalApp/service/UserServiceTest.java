@@ -30,7 +30,7 @@ public class UserServiceTests {
     public void testFindByUserName(String name){
         assertNotNull(userRepository.findByUserName(name));
     }
-
+      
     @Disabled 
     @ParameterizedTest 
     @CsvSource({
