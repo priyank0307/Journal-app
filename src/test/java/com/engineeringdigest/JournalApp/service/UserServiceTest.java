@@ -15,7 +15,7 @@ import org.junit.jupiter.params.provider.ValueSource;
 import com.engineeringdigest.JournalApp.entity.User;
 import com.engineeringdigest.JournalApp.repository.UserRepository;
 
-@SpringBootTest 
+@SpringBootTest    
 public class UserServiceTests {
 
     @Autowired
