@@ -1,5 +1,5 @@
 package com.engineeringdigest.JournalApp.controller;
-
+     
 import com.engineeringdigest.JournalApp.entity.JournalEntry;
 import java.util.List;
 import org.springframework.web.bind.annotation.RestController;
