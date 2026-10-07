@@ -11,7 +11,7 @@ import com.engineeringdigest.JournalApp.entity.User;
 import com.engineeringdigest.JournalApp.service.UserService;
 
 
-
+   
 @RestController 
 @RequestMapping("/public") 
 public class PublicController {
