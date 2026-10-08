@@ -1,4 +1,4 @@
-package com.engineeringdigest.JournalApp.controller;
+package com.engineeringdigest.JournalApp.controller;  
 
 import java.util.List;
 
