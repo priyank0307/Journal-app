@@ -11,7 +11,7 @@ import org.bson.types.ObjectId;
 import java.util.Optional;
 import com.engineeringdigest.JournalApp.entity.User;
 import java.time.LocalDateTime;
-
+   
 @Component 
 public class JournalEntryService {
     
