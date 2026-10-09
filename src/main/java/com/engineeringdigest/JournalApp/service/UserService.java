@@ -1,4 +1,4 @@
-package com.engineeringdigest.JournalApp.service;   
+package com.engineeringdigest.JournalApp.service;      
 
 import java.util.List;
 import java.util.Optional;
