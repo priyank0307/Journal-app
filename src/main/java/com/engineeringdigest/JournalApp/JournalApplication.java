@@ -1,4 +1,4 @@
-package com.engineeringdigest.JournalApp;
+package com.engineeringdigest.JournalApp;    
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
