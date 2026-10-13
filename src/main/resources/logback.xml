@@ -1,3 +1,4 @@
+//it is used to get logs in a more efficient way
 <configuration>
     <appender name="myConsoleAppender" class="ch.qos.logback.core.ConsoleAppender">
         <encoder>
