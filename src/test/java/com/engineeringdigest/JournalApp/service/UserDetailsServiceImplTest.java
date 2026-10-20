@@ -1,4 +1,4 @@
-package com.engineeringdigest.JournalApp.service;
+package com.engineeringdigest.JournalApp.service;  
 
 import static org.mockito.Mockito.*;
 
