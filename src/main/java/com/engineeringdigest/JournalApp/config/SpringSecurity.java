@@ -1,4 +1,4 @@
-package com.engineeringdigest.JournalApp.config;
+package com.engineeringdigest.JournalApp.config;  
 
 import org.springframework.beans.factory.annotation.Autowired;
 
