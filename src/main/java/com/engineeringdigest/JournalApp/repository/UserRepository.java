@@ -1,4 +1,4 @@
-package com.engineeringdigest.JournalApp.repository;
+package com.engineeringdigest.JournalApp.repository;  
 
 import org.springframework.data.mongodb.repository.MongoRepository;
 import com.engineeringdigest.JournalApp.entity.User;    
