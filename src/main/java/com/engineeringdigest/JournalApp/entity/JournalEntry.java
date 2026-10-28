@@ -1,4 +1,4 @@
-package com.engineeringdigest.JournalApp.entity;
+package com.engineeringdigest.JournalApp.entity;  
 
 import org.springframework.data.mongodb.core.mapping.Document;
 import lombok.Data;
