@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import org.bson.types.ObjectId;
 
 @Document(collection = "users")
-@Data
+@Data  
 public class User {
 
     @Id 
